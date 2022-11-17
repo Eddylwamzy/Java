@@ -21,6 +21,7 @@ public class Falio {
       for(int i=0; i<6; i++)
 
       {
+     marks[i]=scan.nextFloat();
 
      sum += marks[i];
 

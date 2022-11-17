@@ -63,7 +63,7 @@ System.out.print("A");
 
       }
 
-      else(avg<=49)
+      else
 
          {
             System.out.print("F");
